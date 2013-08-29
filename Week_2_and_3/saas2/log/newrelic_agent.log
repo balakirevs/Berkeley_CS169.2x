@@ -1,0 +1,17 @@
+# Logfile created on 2013-08-22 11:30:21 +0200 by logger.rb/25413
+[08/22/13 11:30:21 +0200 HP (4704)] INFO : Starting the New Relic agent in "development" environment.
+[08/22/13 11:30:21 +0200 HP (4704)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/22/13 11:30:21 +0200 HP (4704)] INFO : Reading configuration from config/newrelic.yml
+[08/22/13 11:30:21 +0200 HP (4704)] INFO : Enabling the Request Sampler.
+[08/22/13 11:30:21 +0200 HP (4704)] INFO : Environment: development
+[08/22/13 11:30:21 +0200 HP (4704)] INFO : Dispatcher: thin
+[08/22/13 11:30:21 +0200 HP (4704)] INFO : Application: My Application
+[08/22/13 11:30:21 +0200 HP (4704)] WARN : Agent configured not to send data in this environment.
+[08/22/13 11:30:21 +0200 HP (4704)] INFO : Installing Net instrumentation
+[08/22/13 11:30:21 +0200 HP (4704)] INFO : Installing ActiveRecord instrumentation
+[08/22/13 11:30:21 +0200 HP (4704)] INFO : Installing deferred Rack instrumentation
+[08/22/13 11:30:21 +0200 HP (4704)] INFO : Installing Rails3 Error instrumentation
+[08/22/13 11:30:21 +0200 HP (4704)] INFO : Installing Rails 3 Controller instrumentation
+[08/22/13 11:30:21 +0200 HP (4704)] INFO : Installing Rails 3.0 view instrumentation
+[08/22/13 11:30:22 +0200 HP (4704)] INFO : Finished instrumentation
+[08/22/13 11:30:25 +0200 HP (4704)] INFO : Doing deferred dependency-detection before Rack startup
